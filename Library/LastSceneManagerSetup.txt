@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/MainRitualScene.unity
+- path: Assets/Scenes/SimonHuaconScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
